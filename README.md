@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Robert Zavon
+- 👋 Hi, I’m Bob
 - 👀 I’m interested in Data Science and Software
-- 🌱 I’m currently learning about Python for data science, including NumPy, Pandas, and SciPy at Duke University
+- 🌱 I’m currently living and learning at Duke Kunshan University
 - 📫 How to reach me: rez3@duke.edu, www.linkedin.com/in/robert-zavon
 
 <!---
